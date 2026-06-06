@@ -1,7 +1,7 @@
 # Research projects
 
 Each directory in this repo is a self-contained research project — a question
-I wanted answered by building and experimenting rather than reading.  Nice
+I wanted answered by building and experimenting rather than reading.
 
 Most of the code and write-ups are produced by an async coding agent
 (Claude Code) following the workflow in [AGENTS.md](AGENTS.md): spin up a
